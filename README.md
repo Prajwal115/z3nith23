@@ -6,9 +6,9 @@ The files were made in 2023, and there's a chance, but still a chance that it ma
 
 This is one of my favourite works to this day. Hope you enjoy reliving the experience of 2023.
 
-[alttext](IMG/homepage1.jpeg)
-[alttext](IMG/homepage2.jpeg)
-[alttext](IMG/homepage3.jpeg)
-[alttext](IMG/menupage1.jpeg)
-[alttext](IMG/videopage1.jpeg)
-[alttext](IMG/videopage2.jpeg)
+[alttext](IMG/homepage1.png)
+[alttext](IMG/homepage2.png)
+[alttext](IMG/homepage3.png)
+[alttext](IMG/menupage1.png)
+[alttext](IMG/videopage1.png)
+[alttext](IMG/videopage2.png)
